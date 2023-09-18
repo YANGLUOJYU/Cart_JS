@@ -1,0 +1,14 @@
+.table th{
+    margin: 10px;
+    text-align: center;
+    background-color: rgba(220, 208, 208, 0.222);    
+}
+.table td{
+    margin: 10px;
+    text-align: center;
+}
+.body td:hover{
+    background-color: rgba(50, 45, 45, 0.358);
+    color: white;
+    transition: 0.8s;
+}
